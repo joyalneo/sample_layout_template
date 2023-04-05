@@ -1,0 +1,12 @@
+{
+  "name": "sample_layout_template",
+  "type": "package",
+  "blockId": "kUw1tWNLa8NwinDAKSKIa",
+  "source": {
+    "https": "https://github.com/joyalneo/sample_layout_template",
+    "ssh": "git@github.com:joyalneo/sample_layout_template.git"
+  },
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ]
+}
